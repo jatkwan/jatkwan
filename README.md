@@ -1,7 +1,7 @@
 # 👋Hey There I am [ Izzat ]
 <div style='font-size:1.2em'>
-	<b>Full stack Web Dev and Programming Enthuciast</b>
-	&ldquo; I am Just A Developer who keeps Learning sharing knowledge i have &rdquo;
+	<b>Full stack developer and Programming Enthuciast</b>
+	&ldquo; I am Just A Developer who keeps Learning and sharing knowledge i have &rdquo;
 </div>
 
 <br>
