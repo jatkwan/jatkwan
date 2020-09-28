@@ -9,6 +9,9 @@
 ## ⚡ Get Me on
 
 <div align='left' style="display: flex; justify-content: space-between;">
+	<a href="https://www.linkedin.com/in/muhammad-izzat-roslan-0542a4115/">
+        <img src="https://img.shields.io/badge/LinkedIn-Izzat-blue?style=for-the-badge&logo=linkedin&logoColor=7289DA&logoWidth=30&labelColor=000" alt="linkedin">
+	</a>
 	<p>
 	Coming Soon..
 	</p>
